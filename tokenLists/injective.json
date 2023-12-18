@@ -226,5 +226,12 @@
     "token": "factory/inj1kgyxepqnymx8hy7nydl65w3ecyut566pl70swj/crinj",
     "icon": "/img/CRINJ.png",
     "decimals": 6
+  },
+  {
+    "protocol": "INJECTIVE PANDA",
+    "symbol": "BAMBOO",
+    "token": "factory/inj144nw6ny28mlwuvhfnh7sv4fcmuxnpjx4pksr0j/boo",
+    "icon": "/img/panda.png",
+    "decimals": 6
   }
 ]
